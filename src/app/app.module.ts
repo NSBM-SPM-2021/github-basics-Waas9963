@@ -9,6 +9,7 @@ import { PartsCartComponent } from './components/parts-cart/parts-cart.component
 import { FiltersComponent } from './components/parts-cart/filters/filters.component';
 import { ProductListComponent } from './components/parts-cart/product-list/product-list.component';
 import { CartComponent } from './components/parts-cart/cart/cart.component';
+import { CartItemComponent } from './components/parts-cart/cart/cart-item/cart-item.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { CartComponent } from './components/parts-cart/cart/cart.component';
     PartsCartComponent,
     FiltersComponent,
     ProductListComponent,
-    CartComponent
+    CartComponent,
+    CartItemComponent
   ],
   imports: [
     BrowserModule
