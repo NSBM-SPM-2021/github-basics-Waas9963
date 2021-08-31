@@ -6,6 +6,9 @@ import { HeaderComponent } from './components/shared/header/header.component';
 import { FooterComponent } from './components/shared/footer/footer.component';
 import { NavComponent } from './components/shared/nav/nav.component';
 import { PartsCartComponent } from './components/parts-cart/parts-cart.component';
+import { FiltersComponent } from './components/parts-cart/filters/filters.component';
+import { ProductListComponent } from './components/parts-cart/product-list/product-list.component';
+import { CartComponent } from './components/parts-cart/cart/cart.component';
 
 @NgModule({
   declarations: [
@@ -13,7 +16,10 @@ import { PartsCartComponent } from './components/parts-cart/parts-cart.component
     HeaderComponent,
     FooterComponent,
     NavComponent,
-    PartsCartComponent
+    PartsCartComponent,
+    FiltersComponent,
+    ProductListComponent,
+    CartComponent
   ],
   imports: [
     BrowserModule
