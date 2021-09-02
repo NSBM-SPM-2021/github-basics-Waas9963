@@ -7,9 +7,19 @@ import { Component, OnInit } from '@angular/core';
 })
 export class CartComponent implements OnInit {
 
-  constructor() { }
+  cartItems=[
+    {id: 1,productId:1,productName:'Rods',qty:3,price:1000},
+    {id: 2,productId:2,productName:'Bolts',qty:4,price:600},
+    {id: 3,productId:3,productName:'Pistons',qty:2,price:900},
+    {id: 4,productId:4,productName:'Bearing kit',qty:3,price:1000},
+    {id: 5,productId:5,productName:'Ball joint',qty:1,price:800},
+   ];
 
-  ngOnInit(): void {
+   constructor(){}
+
+
+  ngOnInit(){
+    
   }
 
 }
