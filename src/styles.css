@@ -16,11 +16,5 @@
 .product-btn{
     font-size: small;
 } 
-.card-image {
-    background-repeat: no-repeat;
-    background-position: 50% 50%;
-    background-size: cover;
-    width: 300px;
-    height: 300px;
-  }
+
 

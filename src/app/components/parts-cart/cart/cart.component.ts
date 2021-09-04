@@ -14,12 +14,14 @@ export class CartComponent implements OnInit {
     {id: 4,productId:4,productName:'Bearing kit',qty:3,price:1000},
     {id: 5,productId:5,productName:'Ball joint',qty:1,price:800},
    ];
+   cartTotal=0
 
    constructor(){}
-
-
   ngOnInit(){
-    
+    this.cartItems.forEach(item=>{
+      this.cartTotal +=(item.qty * item.price)
+
+    })
   }
 
 }
