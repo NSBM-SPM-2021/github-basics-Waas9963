@@ -8,7 +8,7 @@ import { MessengerService } from 'src/app/services/messenger.service'
 })
 export class ProductItemComponent implements OnInit {
 
-  @Input() productItem!: Product;
+  @Input() productItem:any;
   constructor(private msg: MessengerService) { }
 
   ngOnInit() {
