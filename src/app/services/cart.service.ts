@@ -3,7 +3,7 @@ import { Observable} from 'rxjs';
 import { HttpClient } from '@angular/common/http';
 import { map } from 'rxjs/operators';
 import { CartItem } from '../models/cart-item';
-import { cartUrl } from '../config/api';
+import { cartUrl } from 'src/config/api';
 import { Product } from '../models/product';
 
 

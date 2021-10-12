@@ -17,4 +17,7 @@
     font-size: small;
 } 
 
-
+.fa-heart{
+    color: palevioletred;
+    cursor: pointer;
+}
