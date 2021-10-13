@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "parts-cart"
+  },
+  "targets": {
+    "parts-cart": {
+      "hosting": {
+        "parts-cart": [
+          "parts-cart"
+        ]
+      }
+    }
+  }
+}

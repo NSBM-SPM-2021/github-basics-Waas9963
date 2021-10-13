@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Ball joint",
+      "description": "Ball joints are the critical component of the front suspension that connect various links and allow them to move. ... Ball joints of your front suspension provide pivoting movement between the steering knuckles and control arms to provide a safe, smooth ride and allow you to precisely control your vehicle.",
+      "imageUrl": "https://image.shutterstock.com/image-photo/auto-parts-on-white-background-600w-1743129332.jpg",
+      "price": 3500
+    },
+    {
+      "id": 3,
+      "name": "Brake caliper",
+      "description": "Brake calipers are a specific component of your braking system that's crucial for the function of your brakes. Calipers are found on each wheel and work to squeeze the brake pads against the rotors in an effort to slow the spin of the wheel and get the vehicle to reduce its speed.",
+      "imageUrl": "https://www.edrmagazine.eu/wp-content/uploads/2019/09/Alcon-CIR46-brake-caliper-small.jpg",
+      "price": 4000
+    },
+    {
+      "id": 4,
+      "name": "Bearings",
+      "description": "A bearing is a machine element that constrains relative motion to only the desired motion, and reduces friction between moving parts. ... The simplest form of bearing, the plain bearing, consists of a shaft rotating in a hole.",
+      "imageUrl": "https://www.skf.com/binaries/pub12/Images/0901d1968056488f-Group-FPCBB_SRACBB_DRACBB_14_214_794_664_tcm_12-496134.png",
+      "price": 2000
+    },
+    {
+      "id": 5,
+      "name": "Nut and Bolts",
+      "description": "Buy Nuts And Bolts at Screwfix.com. Essential for any tool box kit. Various sizes. Fixings to complete any task. Thousands of customer product reviews.",
+      "imageUrl": "https://5.imimg.com/data5/VM/XJ/HU/SELLER-3837880/nickel-alloy-nuts-bolts-500x500.jpg",
+      "price": 1000
+    },
+    {
+      "id": 6,
+      "name": "Rubber hose",
+      "description": "Rubber hose Reliable Quality And Affordable Price, Obtaine CE, FDA, Reach certificates. Orientflex Exported Wide Range Of Products To 30 Countries. Competative Price. Enquire! Single Carcass Hoses. Marine Hose. Double Carcass Hoses. OCIMF Standard.",
+      "imageUrl": "http://www.industrialrubbergoods.com/images/rubber-hose-1.jpg",
+      "price": 3000
+    },
+    {
+      "id": 7,
+      "name": "Hose clips",
+      "description": "Hose clips are metal loops that can be tightened to clamp down hoses securely. They fit around the neck of a hose pipe and are tightened using a captive ..",
+      "imageUrl": "https://www.catc.lk/web/image/product.product/7394/image",
+      "price": 500
+    },
+    {
+      "id": 8,
+      "name": "Gasket kit",
+      "description": "A gasket is a mechanical seal which fills the space between two or more mating surfaces, generally to prevent leakage from or into the joined objects while under compression. ... Gaskets allow for",
+      "imageUrl": "https://www.scparts.co.uk/media/catalog/product/cache/5/image/9df78eab33525d08d6e5fb8d27136e95/1/2/125831.jpg",
+      "price": 10000
+    }
+  ],
+  "wishlist": [
+    
+  ],
+  "cart": [
+
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
