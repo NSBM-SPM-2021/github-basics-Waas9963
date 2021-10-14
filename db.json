@@ -51,10 +51,21 @@
     }
   ],
   "wishlist": [
-    
+    {
+      "id": 4
+    }
   ],
   "cart": [
-
+    {
+      "product": {
+        "id": 4,
+        "name": "Bearings",
+        "description": "A bearing is a machine element that constrains relative motion to only the desired motion, and reduces friction between moving parts. ... The simplest form of bearing, the plain bearing, consists of a shaft rotating in a hole.",
+        "imageUrl": "https://www.skf.com/binaries/pub12/Images/0901d1968056488f-Group-FPCBB_SRACBB_DRACBB_14_214_794_664_tcm_12-496134.png",
+        "price": 2000
+      },
+      "id": 1
+    }
   ],
   "posts": [
     {
